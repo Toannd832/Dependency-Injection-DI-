@@ -5,6 +5,7 @@
 * NetBeans use ANT Buildtool
 * .gitignore file for NetBeans project
 * README.md - this file itself - using Markdow language
+* About the theory and mindset
 ![alt](DI.png)
 ![alt](DI_2.png)
 

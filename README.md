@@ -8,8 +8,9 @@
 * About the theory and mindset
 ![alt](DI.png)
 ![alt](DI_2.png)
-* Cách thức tối ưu trong DI
+
 ![alt](DI3.png)
+* Cách thức tối ưu trong DI
 ![alt](DI4.png)
 ![alt](DI5.png)
 ### © 2023 Vinsu 

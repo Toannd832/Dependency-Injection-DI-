@@ -8,6 +8,7 @@
 * About the theory and mindset
 ![alt](DI.png)
 ![alt](DI_2.png)
+* Cách thức tối ưu trong DI
 ![alt](DI3.png)
 ![alt](DI4.png)
 ![alt](D5.png)

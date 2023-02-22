@@ -11,8 +11,5 @@
 * Cách thức tối ưu trong DI
 ![alt](DI3.png)
 ![alt](DI4.png)
-![alt](D5.png)
-
-
-* TO BE CONTINUE...
+![alt](DI5.png)
 ### © 2023 Vinsu 
